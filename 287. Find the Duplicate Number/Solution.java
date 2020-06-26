@@ -15,7 +15,7 @@ class Solution {
 	        fast = nums[nums[fast]];
         } while (slow != fast);
         
-        // cycle founded!
+        // cycle found!
         
         slow = nums[0];
         
