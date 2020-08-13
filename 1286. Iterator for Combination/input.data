@@ -1,0 +1,6 @@
+["CombinationIterator","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext","next","hasNext"]
+[["abcde",3],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
+["CombinationIterator","next","hasNext","next","hasNext","next","hasNext"]
+[["abc",2],[],[],[],[],[],[]]
+["CombinationIterator","hasNext","next","hasNext","next","hasNext","next","hasNext"]
+[["abc",1],[],[],[],[],[],[],[]]
